@@ -1,0 +1,42 @@
+[
+  {
+    "id": "GUILD-001",
+    "name": "Order of the Cosmic Veil",
+    "guildMaster": "Celestial Mage",
+    "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+    "foundedYear": 1423,
+    "motto": "Balance in All, All in Balance"
+  },
+  {
+    "id": "GUILD-002",
+    "name": "Brotherhood of the Dusk",
+    "guildMaster": "Darkness Wielder",
+    "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+    "foundedYear": 1578,
+    "motto": "In Shadows, Truth"
+  },
+  {
+    "id": "GUILD-003",
+    "name": "Skybreakers",
+    "guildMaster": "Tempest Queen",
+    "guildEmblemUrl": "https://example.com/images/guilds/skybreakers-emblem.jpg",
+    "foundedYear": 1620,
+    "motto": "Ride the Storm"
+  },
+  {
+    "id": "GUILD-004",
+    "name": "Ember Circle",
+    "guildMaster": "Ashen Lord",
+    "guildEmblemUrl": "https://example.com/images/guilds/ember-circle-emblem.jpg",
+    "foundedYear": 1701,
+    "motto": "From Ashes, Power"
+  },
+  {
+    "id": "GUILD-005",
+    "name": "Verdant Circle",
+    "guildMaster": "Forest Mother",
+    "guildEmblemUrl": "https://example.com/images/guilds/verdant-circle-emblem.jpg",
+    "foundedYear": 1389,
+    "motto": "Life Above All"
+  }
+]

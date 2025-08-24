@@ -1,0 +1,302 @@
+[
+  {
+    "id": "FTC-001",
+    "name": "Aether Knight",
+    "description": "A legendary knight who harnesses the ethereal powers of the Aether, wielding them to maintain balance across the realms.",
+    "age": 457,
+    "isActive": true,
+    "birthDate": "1567-03-05",
+    "imageUrl": "https://example.com/images/aether-knight.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Teleportation", "Energy Manipulation", "Dimensional Travel"],
+    "element": "Aether",
+    "guildAffiliation": {
+      "id": "GUILD-001",
+      "name": "Order of the Cosmic Veil",
+      "guildMaster": "Celestial Mage",
+      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "foundedYear": 1423,
+      "motto": "Balance in All, All in Balance"
+    }
+  },
+  {
+    "id": "FTC-002",
+    "name": "Shadow Enchantress",
+    "description": "A mysterious sorceress cloaked in darkness, wielding shadow magic to manipulate the fabric of reality and ensnare her foes.",
+    "age": 324,
+    "isActive": false,
+    "birthDate": "1699-10-31",
+    "imageUrl": "https://example.com/images/shadow-enchantress.jpg",
+    "rarity": "Epic",
+    "abilities": ["Shadow Manipulation", "Illusion Casting", "Night Vision"],
+    "element": "Shadow",
+    "guildAffiliation": {
+      "id": "GUILD-002",
+      "name": "Brotherhood of the Dusk",
+      "guildMaster": "Darkness Wielder",
+      "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+      "foundedYear": 1578,
+      "motto": "In Shadows, Truth"
+    }
+  },
+  {
+    "id": "FTC-003",
+    "name": "Storm Herald",
+    "description": "A warrior who channels the fury of storms, wielding thunder and lightning as his weapons.",
+    "age": 210,
+    "isActive": true,
+    "birthDate": "1815-07-22",
+    "imageUrl": "https://example.com/images/storm-herald.jpg",
+    "rarity": "Epic",
+    "abilities": ["Lightning Strike", "Storm Calling", "Wind Control"],
+    "element": "Air",
+    "guildAffiliation": {
+      "id": "GUILD-003",
+      "name": "Skybreakers",
+      "guildMaster": "Tempest Queen",
+      "guildEmblemUrl": "https://example.com/images/guilds/skybreakers-emblem.jpg",
+      "foundedYear": 1620,
+      "motto": "Ride the Storm"
+    }
+  },
+  {
+    "id": "FTC-004",
+    "name": "Flame Dancer",
+    "description": "A fiery performer who turns flames into dazzling spectacles and deadly attacks.",
+    "age": 95,
+    "isActive": true,
+    "birthDate": "1930-02-11",
+    "imageUrl": "https://example.com/images/flame-dancer.jpg",
+    "rarity": "Rare",
+    "abilities": ["Fire Manipulation", "Inferno Spin", "Blazing Illusions"],
+    "element": "Fire",
+    "guildAffiliation": {
+      "id": "GUILD-004",
+      "name": "Ember Circle",
+      "guildMaster": "Ashen Lord",
+      "guildEmblemUrl": "https://example.com/images/guilds/ember-circle-emblem.jpg",
+      "foundedYear": 1701,
+      "motto": "From Ashes, Power"
+    }
+  },
+  {
+    "id": "FTC-005",
+    "name": "Crystal Seer",
+    "description": "A mystic who gazes into enchanted crystals to predict futures and manipulate reality.",
+    "age": 301,
+    "isActive": false,
+    "birthDate": "1724-12-02",
+    "imageUrl": "https://example.com/images/crystal-seer.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Precognition", "Crystal Barriers", "Reality Bending"],
+    "element": "Earth",
+    "guildAffiliation": {
+      "id": "GUILD-005",
+      "name": "Verdant Circle",
+      "guildMaster": "Forest Mother",
+      "guildEmblemUrl": "https://example.com/images/guilds/verdant-circle-emblem.jpg",
+      "foundedYear": 1389,
+      "motto": "Life Above All"
+    }
+  },
+  {
+    "id": "FTC-006",
+    "name": "Frost Warden",
+    "description": "Guardian of the northern glaciers, protector of ancient frozen secrets.",
+    "age": 402,
+    "isActive": true,
+    "birthDate": "1623-01-15",
+    "imageUrl": "https://example.com/images/frost-warden.jpg",
+    "rarity": "Epic",
+    "abilities": ["Ice Armor", "Blizzard Summon", "Frozen Prison"],
+    "element": "Ice",
+    "guildAffiliation": {
+      "id": "GUILD-003",
+      "name": "Skybreakers",
+      "guildMaster": "Tempest Queen",
+      "guildEmblemUrl": "https://example.com/images/guilds/skybreakers-emblem.jpg",
+      "foundedYear": 1620,
+      "motto": "Ride the Storm"
+    }
+  },
+  {
+    "id": "FTC-007",
+    "name": "Iron Titan",
+    "description": "A giant forged from steel and magic, moving with unstoppable strength.",
+    "age": 750,
+    "isActive": true,
+    "birthDate": "1275-09-03",
+    "imageUrl": "https://example.com/images/iron-titan.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Earthquake Stomp", "Iron Skin", "Seismic Roar"],
+    "element": "Metal",
+    "guildAffiliation": {
+      "id": "GUILD-004",
+      "name": "Ember Circle",
+      "guildMaster": "Ashen Lord",
+      "guildEmblemUrl": "https://example.com/images/guilds/ember-circle-emblem.jpg",
+      "foundedYear": 1701,
+      "motto": "From Ashes, Power"
+    }
+  },
+  {
+    "id": "FTC-008",
+    "name": "Moon Priestess",
+    "description": "A healer and protector who draws her power from the cycles of the moon.",
+    "age": 267,
+    "isActive": false,
+    "birthDate": "1758-06-14",
+    "imageUrl": "https://example.com/images/moon-priestess.jpg",
+    "rarity": "Epic",
+    "abilities": ["Lunar Healing", "Moonlight Shield", "Tide Summon"],
+    "element": "Water",
+    "guildAffiliation": {
+      "id": "GUILD-001",
+      "name": "Order of the Cosmic Veil",
+      "guildMaster": "Celestial Mage",
+      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "foundedYear": 1423,
+      "motto": "Balance in All, All in Balance"
+    }
+  },
+  {
+    "id": "FTC-009",
+    "name": "Venomblade Assassin",
+    "description": "A deadly killer who coats his blades with enchanted poisons.",
+    "age": 143,
+    "isActive": true,
+    "birthDate": "1882-05-19",
+    "imageUrl": "https://example.com/images/venomblade-assassin.jpg",
+    "rarity": "Rare",
+    "abilities": ["Poison Strike", "Silent Step", "Shadow Escape"],
+    "element": "Poison",
+    "guildAffiliation": {
+      "id": "GUILD-002",
+      "name": "Brotherhood of the Dusk",
+      "guildMaster": "Darkness Wielder",
+      "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+      "foundedYear": 1578,
+      "motto": "In Shadows, Truth"
+    }
+  },
+  {
+    "id": "FTC-010",
+    "name": "Sunforged Paladin",
+    "description": "A holy knight blessed by the sun itself, radiating warmth and destruction.",
+    "age": 312,
+    "isActive": true,
+    "birthDate": "1713-08-08",
+    "imageUrl": "https://example.com/images/sunforged-paladin.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Solar Flare", "Blinding Radiance", "Sunfire Blade"],
+    "element": "Light",
+    "guildAffiliation": {
+      "id": "GUILD-001",
+      "name": "Order of the Cosmic Veil",
+      "guildMaster": "Celestial Mage",
+      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "foundedYear": 1423,
+      "motto": "Balance in All, All in Balance"
+    }
+  },
+  {
+    "id": "FTC-011",
+    "name": "Necrotic Warlock",
+    "description": "A wielder of forbidden necromancy, drawing strength from the grave.",
+    "age": 503,
+    "isActive": true,
+    "birthDate": "1522-11-01",
+    "imageUrl": "https://example.com/images/necrotic-warlock.jpg",
+    "rarity": "Epic",
+    "abilities": ["Raise Undead", "Soul Drain", "Death Curse"],
+    "element": "Death",
+    "guildAffiliation": {
+      "id": "GUILD-002",
+      "name": "Brotherhood of the Dusk",
+      "guildMaster": "Darkness Wielder",
+      "guildEmblemUrl": "https://example.com/images/guilds/dusk-brotherhood-emblem.jpg",
+      "foundedYear": 1578,
+      "motto": "In Shadows, Truth"
+    }
+  },
+  {
+    "id": "FTC-012",
+    "name": "Celestial Archer",
+    "description": "An archer who shoots arrows infused with starlight from the heavens.",
+    "age": 178,
+    "isActive": true,
+    "birthDate": "1847-04-30",
+    "imageUrl": "https://example.com/images/celestial-archer.jpg",
+    "rarity": "Epic",
+    "abilities": ["Starshot", "Meteor Volley", "Astral Aim"],
+    "element": "Cosmos",
+    "guildAffiliation": {
+      "id": "GUILD-001",
+      "name": "Order of the Cosmic Veil",
+      "guildMaster": "Celestial Mage",
+      "guildEmblemUrl": "https://example.com/images/guilds/cosmic-veil-emblem.jpg",
+      "foundedYear": 1423,
+      "motto": "Balance in All, All in Balance"
+    }
+  },
+  {
+    "id": "FTC-013",
+    "name": "Spirit Whisperer",
+    "description": "A shaman who communes with spirits to heal allies and curse foes.",
+    "age": 239,
+    "isActive": true,
+    "birthDate": "1786-09-09",
+    "imageUrl": "https://example.com/images/spirit-whisperer.jpg",
+    "rarity": "Rare",
+    "abilities": ["Spirit Channeling", "Ancestral Shield", "Haunting Wail"],
+    "element": "Spirit",
+    "guildAffiliation": {
+      "id": "GUILD-005",
+      "name": "Verdant Circle",
+      "guildMaster": "Forest Mother",
+      "guildEmblemUrl": "https://example.com/images/guilds/verdant-circle-emblem.jpg",
+      "foundedYear": 1389,
+      "motto": "Life Above All"
+    }
+  },
+  {
+    "id": "FTC-014",
+    "name": "Emerald Druid",
+    "description": "A nature guardian who bends forests and wildlife to her will.",
+    "age": 411,
+    "isActive": false,
+    "birthDate": "1614-05-21",
+    "imageUrl": "https://example.com/images/emerald-druid.jpg",
+    "rarity": "Epic",
+    "abilities": ["Treeform", "Vine Snare", "Beast Summon"],
+    "element": "Nature",
+    "guildAffiliation": {
+      "id": "GUILD-005",
+      "name": "Verdant Circle",
+      "guildMaster": "Forest Mother",
+      "guildEmblemUrl": "https://example.com/images/guilds/verdant-circle-emblem.jpg",
+      "foundedYear": 1389,
+      "motto": "Life Above All"
+    }
+  },
+  {
+    "id": "FTC-015",
+    "name": "Timeweaver",
+    "description": "A manipulator of time who bends moments to alter fate.",
+    "age": 999,
+    "isActive": true,
+    "birthDate": "1026-12-31",
+    "imageUrl": "https://example.com/images/timeweaver.jpg",
+    "rarity": "Mythic",
+    "abilities": ["Time Stop", "Chrono Shift", "Age Reversal"],
+    "element": "Time",
+    "guildAffiliation": {
+      "id": "GUILD-003",
+      "name": "Skybreakers",
+      "guildMaster": "Tempest Queen",
+      "guildEmblemUrl": "https://example.com/images/guilds/skybreakers-emblem.jpg",
+      "foundedYear": 1620,
+      "motto": "Ride the Storm"
+    }
+  }
+]
